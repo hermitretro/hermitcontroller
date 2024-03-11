@@ -18,6 +18,11 @@ be downloaded from [https://www.arduino.cc/en/software](https://www.arduino.cc/e
 The firmware can be flashed directly onto the Hermit Controller board via
 an SPI-based flasher and Tag-Connect cable via the pogo pins.
 
+# Casing
+
+The source files for the casing are available in the `case` folder along
+with precompiled STL files usable on both filament and resin printers.
+
 # Links
 
 * [Hermit Retro Products -- WWW](https://hermitretro.com)
